@@ -12,4 +12,7 @@ This project demonstrates how to allocate tasks efficiently within an Agile fram
   e. K-Nearest Neighbors (KNN)  
 3. Performance evaluation through accuracy scores and classification reports.
 
-Thankyou!!
+## Dataset
+The project uses a dataset named employee_skills_dataset.xlsx, which contains employee skill data required for task allocation. Ensure this file is properly formatted and placed in the project directory.
+
+Thankyou! :) 
