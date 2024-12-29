@@ -1,1 +1,15 @@
-# Task-Allocation-using-Agile-software-development
+# Task Allocation Using Agile Software Development
+## Overview
+This project demonstrates how to allocate tasks efficiently within an Agile framework using data analysis and machine learning. It leverages employee skill data to match team members with suitable tasks, ensuring optimal resource utilization.
+
+## Features
+1. Data preprocessing and visualization using Pandas and Matplotlib.
+2. Machine learning for predictive task assignment using:  
+  a. Random Forest  
+  b. Gradient Boosting  
+ c. Logistic Regression  
+ d. Support Vector Machines (SVM)  
+  e. K-Nearest Neighbors (KNN)  
+3. Performance evaluation through accuracy scores and classification reports.
+
+Thankyou!!
