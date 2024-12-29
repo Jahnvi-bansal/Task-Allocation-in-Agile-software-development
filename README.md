@@ -1,4 +1,4 @@
-# Task Allocation Using Agile Software Development
+# Task Allocation in Agile Software Development
 ## Overview
 This project demonstrates how to allocate tasks efficiently within an Agile framework using data analysis and machine learning. It leverages employee skill data to match team members with suitable tasks, ensuring optimal resource utilization.
 
